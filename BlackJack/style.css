@@ -1,0 +1,41 @@
+.blackjack-container {
+    border: 1px solid black;
+    margin: 10 auto;
+    text-align: center;
+    width: 75%;
+}
+.blackjack-row1  {
+    border: 1px solid black;
+    display: flex;
+    flex-wrap: wrap;
+    padding: 10px;
+    justify-content: space-around;
+    flex-direction: row;
+    background: url('https://free4kwallpapers.com/uploads/originals/2015/05/04/abstract-green-background.jpg');
+    color: #ffffff;
+    height: 450px;
+}
+.blackjack-row1 div {
+    border: 1px solid black;
+    flex: 1;
+}
+.blackjack-row1 img {
+    width: 20%;
+    padding: 10px;
+}
+.blackjack-row2 {
+    border: 1px solid black;
+    padding: 10px;
+    background: url('https://free4kwallpapers.com/uploads/originals/2015/05/04/abstract-green-background.jpg');
+    color: #ffffff;
+}
+.blackjack-row3 {
+    border: 1px solid black;
+    display: flex;
+    justify-content: space-around;
+}
+table , th , td {
+    border: 1px solid black;
+    padding: 5px;
+    margin: 5px;
+}
