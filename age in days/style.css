@@ -1,0 +1,23 @@
+.age-in-days{
+    border: 1px solid black;
+    margin: 0px;
+    padding: 20px;
+    text-align: center;
+}
+.container-1 {
+    border: 1px solid black;
+    margin: 50px;
+}
+.box-container-1 {
+    border: 1px solid black;
+    margin: 0px;
+    padding: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.box-container-1 div{
+    margin: 5px;
+    padding: 10px;
+}
